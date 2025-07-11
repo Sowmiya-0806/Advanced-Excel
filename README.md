@@ -44,5 +44,5 @@ Advance-Excel-Projects-Assignments/
 
 ## 📌 Author
 
-Created by **Gajendiran K**  
+Created by **Sowmiya**  
 Advanced Excel Practice – 2025
